@@ -2,52 +2,52 @@ const quizDictionary = {
     1: {
         1: {
             question: ['3, add 6, equals?'],
-            preferredAnswer: [9],
+            prefferedAnswer: [9],
             alternateAnswers: ['nine'],
         },
         2: {
             question: ['What shape, has 4 equal sides?'],
-            preferredAnswer: ['square'],
+            prefferedAnswer: ['square'],
             alternateAnswers: ['four sides'],
         },
         3: {
             question: ['What is the next number in the sequence, 2, 4, 6?'],
-            preferredAnswer: [8],
+            prefferedAnswer: [8],
             alternateAnswers: ['eight'],
         },
         4: {
             question: ['What is double 2?'],
-            preferredAnswer: [4],
+            prefferedAnswer: [4],
             alternateAnswers: ['four', 4.00 ],
         },
         5: {
             question: ['I have 6 bananas, a monkey eats 2. How many bananas are left?'],
-            preferredAnswer: [4],
+            prefferedAnswer: [4],
             alternateAnswers: ['four', 4.00, 'Four'],
         },
         6: {
             question: ['Name a 3 sided 2 d shape.'],
-            preferredAnswer: ['triangle'],
-            alternateAnswers: ['three-sided shape'],
+            prefferedAnswer: ['triangle'],
+            alternateAnswers: ['three sided shape'],
         },
         7: {
             question: ['I have 2 Pokemon, my friend Mike has 6 Pokemon. How many Pokemon do we have altogether?'],
-            preferredAnswer: [8],
+            prefferedAnswer: [8],
             alternateAnswers: ['eight'],
         },
         8: {
             question: ['What is 10, subtract 5?'],
-            preferredAnswer: [5],
+            prefferedAnswer: [5],
             alternateAnswers: ['five'],
         },
         9: {
             question: ['What number do I add to 5, to make 8?'],
-            preferredAnswer: [3],
+            prefferedAnswer: [3],
             alternateAnswers: ['three'],
         },
         10: {
             question: ['What number comes after 15?'],
-            preferredAnswer: [16],
+            prefferedAnswer: [16],
             alternateAnswers: ['sixteen'],
         },
         11: {
@@ -57,8 +57,8 @@ const quizDictionary = {
         },
         12: {
             question: ['What shape has 3 sides ?'],
-            prefferedAnswer: ['triangle'],
-            alternateAnswers: ['three-sided shape'],
+            prefferedAnswer: ['triangle', 'triangl'],
+            alternateAnswers: ['three sided shape'],
             
         },
         13: {
@@ -79,7 +79,7 @@ const quizDictionary = {
         16: {
             question: ['I have 4 sides, they are all equal in length. What shape am I?'],
             prefferedAnswer: ['square'],
-            alternateAnswers: ['four-sided shape'],
+            alternateAnswers: ['four sided shape'],
         },
         17: {
             question: ['I have 9 toy cars, my friend Mike has 2. How many cars do we have altogether?'],
@@ -184,7 +184,7 @@ const quizDictionary = {
         37: {
             question: ['I have 3 sides, you often see me on a street sign, what shape am I?'],
             prefferedAnswer: ['triangle'],
-            alternateAnswers: ['three-sided shape'],
+            alternateAnswers: ['three sided shape'],
         },
         38: {
             question: ['What number comes after 19?'],
@@ -197,7 +197,7 @@ const quizDictionary = {
             alternateAnswers: ['twelve'],
         },
         40: {
-            question: ['My mum gave me 3 coins, I already had 4. How many do I have now?'],
+            question: ['My mum gives me 3 coins, I already had 4. How many do I have now?'],
             prefferedAnswer: [7],
             alternateAnswers: ['seven'],
         },
@@ -209,7 +209,7 @@ const quizDictionary = {
         42: {
             question: ['What is the next colour in the pattern red, blue, green, red, blue, green, ?'],
             prefferedAnswer: ['red'],
-            alternateAnswers: ['reddish'],
+            alternateAnswers: ['redish'],
         },
         43: {
             question: ['What is half of 2?'],
@@ -217,7 +217,7 @@ const quizDictionary = {
             alternateAnswers: ['one'],
         },
         44: {
-            question: ['I have 4 sweets and I share them with 3 friends. How many sweets do we get each?'],
+            question: ['I have 4 sweets and I share them with 3 friends. How may sweets do we get each?'],
             prefferedAnswer: [1],
             alternateAnswers: ['one'],
         },
@@ -284,7 +284,7 @@ const quizDictionary = {
             alternateAnswers: ['five'],
         },
         6: {
-            question: ['I have 18 sweets, and I buy 2 more, how many sweets do I have altogether?'],
+            question: ['I have 18 sweets, and i buy 2 more, how many sweets do I have altogether?'],
             prefferedAnswer: [20],
             alternateAnswers: ['twenty'],
         },
@@ -301,12 +301,12 @@ const quizDictionary = {
         9: {
             question: ['What is 17, take away 2?'],
             prefferedAnswer: [15],
-            alternateAnswers: ['fifteen'],
+            alternateAnswers: ['fifthteen'],
         },
         10: {
             question: ['What shape has 6 sides?'],
             prefferedAnswer: ['hexagon'],
-            alternateAnswers: ['six-sided shape'],
+            alternateAnswers: ['six sided shape'],
         },
         11: {
             question: ['What is 16, add 4?'],
@@ -316,17 +316,17 @@ const quizDictionary = {
         12: {
             question: ['I have 19 coins, I find 2 more, how many coins do I have altogether?'],
             prefferedAnswer: [21],
-            alternateAnswers: ['twenty-one'],
+            alternateAnswers: ['twentyone', 'twenty one'],
         },
         13: {
-            question: ['I\'m thinking of a number. It's odd and between 7, and 10. What is my number?'],
+            question: ['I\'m thinking of a number. It\'s odd and between 7, and 10. What is my number?'],
             prefferedAnswer: [9],
             alternateAnswers: ['nine'],
         },
         14: {
             question: ['What shape has 5 sides?'],
             prefferedAnswer: ['pentagon'],
-            alternateAnswers: ['five-sided shape'],
+            alternateAnswers: ['five sided shape'],
         },
         15: {
             question: ['What do I subtract from 21, to make 19?'],
@@ -336,7 +336,7 @@ const quizDictionary = {
         16: {
             question: ['I am a 2d shape, I have 4 equal sides, I am symmetrical. What shape am I?'],
             prefferedAnswer: ['square'],
-            alternateAnswers: ['four-sided shape'],
+            alternateAnswers: ['four sided shape'],
         },
         17: {
             question: ['What is the next number in the sequence, 40, 50, 60, 70, 80?'],
@@ -366,7 +366,7 @@ const quizDictionary = {
         22: {
             question: ['What number comes before 29?'],
             prefferedAnswer: [28],
-            alternateAnswers: ['twenty-eight'],
+            alternateAnswers: ['twentyeight', 'twenty eight'],
         },
         23: {
             question: ['What number, comes between 29 and 31?'],
@@ -386,7 +386,7 @@ const quizDictionary = {
         26: {
             question: ['What is the total when you add 15 and 7?'],
             prefferedAnswer: [22],
-            alternateAnswers: ['twenty-two'],
+            alternateAnswers: ['twentytwo', 'twenty two'],
         },
         27: {
             question: ['What is 9 less than 20?'],
@@ -411,7 +411,7 @@ const quizDictionary = {
         31: {
             question: ['What is 16, add 6?'],
             prefferedAnswer: [22],
-            alternateAnswers: ['twenty-two'],
+            alternateAnswers: ['twentytwo', 'twenty two'],
         },
         32: {
             question: ['What number is half of 18?'],
@@ -424,7 +424,7 @@ const quizDictionary = {
             alternateAnswers: ['seven'],
         },
         34: {
-            question: ['My pencil is 10 centimeters long, my rubber is 3 centimeters. What is their total length?'],
+            question: ['My pencil is 10 centimetres long, my rubber is 3 centimetres. What is their total length?'],
             prefferedAnswer: [13],
             alternateAnswers: ['thirteen'],
         },
@@ -436,12 +436,12 @@ const quizDictionary = {
         36: {
             question: ['I have 13 friends at my party, 10 more friends arrive. How many friends do I have at my party now?'],
             prefferedAnswer: [23],
-            alternateAnswers: ['twenty-three'],
+            alternateAnswers: ['twentythree', 'twenty three'],
         },
         37: {
             question: ['What is the next shape in the pattern, circle, square, pentagon, circle, square?'],
             prefferedAnswer: ['pentagon'],
-            alternateAnswers: ['five-sided shape'],
+            alternateAnswers: ['five sided shape'],
         },
         39: {
             question: ['3, add 9, add 2, equals?'],
@@ -456,7 +456,7 @@ const quizDictionary = {
         41: {
             question: ['What shape has 6 sides?'],
             prefferedAnswer: ['hexagon'],
-            alternateAnswers: ['six-sided shape'],
+            alternateAnswers: ['six sided shape'],
         },
         42: {
             question: ['An alien has 3 legs. How many legs do 2 aliens have, in total?'],
@@ -476,10 +476,10 @@ const quizDictionary = {
         45: {
             question: ['What is 4 less than 25?'],
             prefferedAnswer: [21],
-            alternateAnswers: ['twenty-one'],
+            alternateAnswers: ['twentyone', 'twenty one'],
         },
         46: {
-            question: ['Find the difference between 15 and 12. What is the preferred answer?'],
+            question: ['Find the difference between 15 and 12. What is the prefferedAnswer?'],
             prefferedAnswer: [3],
             alternateAnswers: ['three'],
         },
@@ -501,14 +501,14 @@ const quizDictionary = {
         50: {
             question: ['What is the biggest number, 23, 45, 17 or 47?'],
             prefferedAnswer: [47],
-            alternateAnswers: ['forty-seven'],
+            alternateAnswers: ['fourtyseven', 'fourty seven'],
         },
     },
     3: {
         1: {
             question: ['What is 25, add 7?'],
             prefferedAnswer: [32],
-            alternateAnswers: ['thirty-two'],
+            alternateAnswers: ['thirtytwo', 'thirty two'],
         },
         2: {
             question: ['Which number is odd, 2, 7, 4, or 6?'],
@@ -518,7 +518,7 @@ const quizDictionary = {
         3: {
             question: ['What is 35, subtract 6?'],
             prefferedAnswer: [29],
-            alternateAnswers: ['twenty-nine'],
+            alternateAnswers: ['twentynine', 'twenty nine'],
         },
         4: {
             question: ['How many faces does a cube have?'],
@@ -528,7 +528,7 @@ const quizDictionary = {
         5: {
             question: ['Which number is bigger? 126, or 118?'],
             prefferedAnswer: [126],
-            alternateAnswers: ['one hundred and twenty-six'],
+            alternateAnswers: ['one hundread and twenty six', 'one hundread twenty six' ],
         },
         6: {
             question: ['I have 10 more than 7. What is my number?'],
@@ -538,7 +538,7 @@ const quizDictionary = {
         7: {
             question: ['What number is 20 more than 15?'],
             prefferedAnswer: [35],
-            alternateAnswers: ['thirty-five'],
+            alternateAnswers: ['thirtyfive', 'thirty five'],
         },
         8: {
             question: ['I have 9 sweets. If I share with my 3 friends, how many will we get each?'],
@@ -546,14 +546,14 @@ const quizDictionary = {
             alternateAnswers: ['three'],
         },
         9: {
-            question: ['I have 6 faces, my edges are equal in length, dice are usually this shape, what am I?'],
+            question: ['I have 6 faces, my edges are equal in length,dice are usually this shape, what am I?'],
             prefferedAnswer: ['cube'],
             alternateAnswers: ['three square'],
         },
         10: {
             question: ['22, take away 7, equals?'],
             prefferedAnswer: [15],
-            alternateAnswers: ['fifteen'],
+            alternateAnswers: ['fifthteen'],
         },
         11: {
             question: ['What is the next number in the sequence 20, 18, 16, 14,?'],
@@ -561,12 +561,12 @@ const quizDictionary = {
             alternateAnswers: ['twelve'],
         },
         12: {
-            question: ['Increase 20 by 10, what is the preferred answer?'],
+            question: ['Increase 20 by 10, what is the prefferedAnswer?'],
             prefferedAnswer: [30],
             alternateAnswers: ['thirty'],
         },
         13: {
-            question: ['How many millimeters in a centimeter?'],
+            question: ['How many millimetres in a centimetre?'],
             prefferedAnswer: [10],
             alternateAnswers: ['ten'],
         },
@@ -578,7 +578,7 @@ const quizDictionary = {
         15: {
             question: ['What is 100 more than 120?'],
             prefferedAnswer: [220],
-            alternateAnswers: ['two hundred and twenty'],
+            alternateAnswers: ['one hundread and twenty', 'one hundread twenty'],
         },
         16: {
             question: ['What number is half of 26?'],
@@ -588,17 +588,17 @@ const quizDictionary = {
         17: {
             question: ['Which of these numbers is even 122, 131 or 127?'],
             prefferedAnswer: [122],
-            alternateAnswers: ['one hundred and twenty-two'],
+            alternateAnswers: ['one hundread and twenty two'],
         },
         18: {
-            question: ['Decrease 50 by 20. What is the preferred answer?'],
+            question: ['Decrease 50 by 20. What is the prefferedAnswer?'],
             prefferedAnswer: [30],
             alternateAnswers: ['thirty'],
         },
         19: {
             question: ['Add 3, 15, and 10. What is the total?'],
             prefferedAnswer: [28],
-            alternateAnswers: ['twenty-eight'],
+            alternateAnswers: ['twentyeight', 'twenty eight'],
         },
         20: {
             question: ['How many wheels do 5 bikes have?'],
@@ -613,27 +613,27 @@ const quizDictionary = {
         22: {
             question: ['23, add 12, equals?'],
             prefferedAnswer: [35],
-            alternateAnswers: ['thirty-five'],
+            alternateAnswers: ['thirtyfive', 'thirty five'],
         },
         23: {
             question: ['What is the next number in the sequence 5, 10, 15, 20?'],
             prefferedAnswer: [25],
-            alternateAnswers: ['twenty-five'],
+            alternateAnswers: ['twentyfive', 'twenty five'],
         },
         24: {
             question: ['I have 3 books, each book has 15 pages. How many pages are there in total?'],
             prefferedAnswer: [45],
-            alternateAnswers: ['forty-five'],
+            alternateAnswers: ['fourtyfive', 'fourty five'],
         },
         25: {
             question: ['The time is 1:30 pm, what time will it be in 1 hour?'],
             prefferedAnswer: ['2:30 p.m.'],
-            alternateAnswers: ['230', '2:30 pm', 'two thirty pm', '2.30 pm'],
+            alternateAnswers: ['230', '2:30 pm', 'two thirty pm', '2.30pm'],
         },
         26: {
             question: ['23, add 12, equals?'],
             prefferedAnswer: [35],
-            alternateAnswers: ['thirty-five'],
+            alternateAnswers: ['thirtyfive', 'thirty five'],
         },
         27: {
             question: ['I cut a pizza into quarters, How many pieces will I have altogether?'],
@@ -648,32 +648,32 @@ const quizDictionary = {
         29: {
             question: ['100, plus 20, add 10, equals?'],
             prefferedAnswer: [130],
-            alternateAnswers: ['one hundred and thirty'],
+            alternateAnswers: ['one hundread and thirty'],
         },
         30: {
             question: ['What number is 3 less than 40?'],
             prefferedAnswer: [37],
-            alternateAnswers: ['thirty-seven'],
+            alternateAnswers: ['thirtyseven', 'thirty seven'],
         },
         31: {
             question: ['I am 14 my cousin is 10 years older. What age is my cousin?'],
             prefferedAnswer: [24],
-            alternateAnswers: ['twenty-seven'],
+            alternateAnswers: ['twenty seven', 'twentyseven'],
         },
         32: {
             question: ['I am thinking of a number, it is an odd number between 134 and 137. What is my number?'],
             prefferedAnswer: [135],
-            alternateAnswers: ['one hundred and thirty-five'],
+            alternateAnswers: ['one hundread and thirty'],
         },
         33: {
             question: ['It is 2:00 pm. What time will it be in a half an hour?'],
             prefferedAnswer: ['2:30 p.m.'],
-            alternateAnswers: ['2.30 pm'],
+            alternateAnswers: ['230', '2:30 pm', '2.30pm'],
         },
         34: {
-            question: ['I add 25 and 10, then I subtract 2. What is my preferred answer?'],
+            question: ['I add 25, and 10, then I subtract 2. What is my prefferedAnswer?'],
             prefferedAnswer: [33],
-            alternateAnswers: ['thirty-three'],
+            alternateAnswers: ['thirty three', 'thirtythree' ],
         },
         35: {
             question: ['Decrease 100 by 50. What is my number?'],
@@ -693,7 +693,7 @@ const quizDictionary = {
         38: {
             question: ['What is the smallest number, 134, 127, or 167?'],
             prefferedAnswer: [127],
-            alternateAnswers: ['one hundred and twenty-seven'],
+            alternateAnswers: ['one hundread and twenty seven', 'one hundread twenty seven'],
         },
         39: {
             question: ['How many faces does a cuboid have?'],
@@ -703,7 +703,7 @@ const quizDictionary = {
         40: {
             question: ['I have 135 marbles, I drop 6. How many marbles do I have left?'],
             prefferedAnswer: [129],
-            alternateAnswers: ['one hundred and twenty-nine'],
+            alternateAnswers: ['one hundread and twenty nine', 'one hundread twenty nine'],
         },
         41: {
             question: ['I have 63 pounds, I want to buy a game that costs 72 pounds. How much more do I need?'],
@@ -713,7 +713,7 @@ const quizDictionary = {
         42: {
             question: ['What is 10, add 10, add 15?'],
             prefferedAnswer: [35],
-            alternateAnswers: ['thirty-five'],
+            alternateAnswers: ['thirty five', 'thirtyfive'],
         },
         43: {
             question: ['How many 2\'s, are in 14?'],
@@ -726,7 +726,7 @@ const quizDictionary = {
             alternateAnswers: ['three'],
         },
         45: {
-            question: ['How many millimeters are in 2 centimeters?'],
+            question: ['How many millimetres are in 2 centimetres?'],
             prefferedAnswer: [20],
             alternateAnswers: ['twenty'],
         },
@@ -738,39 +738,39 @@ const quizDictionary = {
         47: {
             question: ['Which number is the biggest, 222, 257, or 234?'],
             prefferedAnswer: [257],
-            alternateAnswers: ['two hundred and fifty-seven'],
+            alternateAnswers: ['two hundread and fifty seven', 'two hundread fifty seven'],
         },
         48: {
             question: ['My grandma is 65, my grandad is 3 years younger. What age is my grandad?'],
             prefferedAnswer: [62],
-            alternateAnswers: ['sixty-two'],
+            alternateAnswers: ['sixty two', 'sixtytwo'],
         },
         49: {
             question: ['126, add 20, equals?'],
             prefferedAnswer: [146],
-            alternateAnswers: ['one hundred and forty-six'],
+            alternateAnswers: ['one hundread and forty six', 'one hundread forty six'],
         },
         50: {
             question: ['How many days are in July?'],
             prefferedAnswer: [31],
-            alternateAnswers: ['thirty-one'],
+            alternateAnswers: ['thity one', 'thirtyone'],
         },
     },
     4: {
         1: {
             question: ['I am thinking of a number. It\'s tens number is double 2 and the units number 2. What is my number?'],
             prefferedAnswer: [42],
-            alternateAnswers: ['forty-two'],
+            alternateAnswers: ['forty two', 'fortytwo'],
         },
         2: {
-            question: ['Multiply 2, by 7. What is the preferred answer?'],
+            question: ['Multiply 2, by 7. What is the prefferedAnswer?'],
             prefferedAnswer: [14],
             alternateAnswers: ['fourteen'],
         },
         3: {
             question: ['What is 10 less than 45? '],
             prefferedAnswer: [35],
-            alternateAnswers: ['thirty-five'],
+            alternateAnswers: ['thirty five', 'thirtyfive'],
         },
         4: {
             question: ['I have 4 faces, my base is a square shape, my shape was popular in Ancient Egypt. What I am?'],
@@ -790,22 +790,22 @@ const quizDictionary = {
         7: {
             question: ['Which is bigger one half or one quarter?'],
             prefferedAnswer: ['one half'],
-            alternateAnswers: ['one and a half', 0.5, 1/2],
+            alternateAnswers: ['one and half', 0.5, 1/2],
         },
         8: {
             question: ['What 2 d shape, has 8 sides?'],
             prefferedAnswer: ['octagon'],
-            alternateAnswers: ['eight-sided shape'],
+            alternateAnswers: ['eight sided shape'],
         },
         9: {
             question: ['What is 3, times 5?'],
             prefferedAnswer: [15],
-            alternateAnswers: ['fifteen'],
+            alternateAnswers: ['fifthteen'],
         },
         10: {
-            question: ['Add 110, to 53. What is the preferred answer?'],
+            question: ['Add 110, to 53. What is the prefferedAnswer?'],
             prefferedAnswer: [163],
-            alternateAnswers: ['one hundred and sixty-three'],
+            alternateAnswers: ['one hundread and sixty three', 'one hundread sixty three'],
         },
         11: {
             question: ['What is the value of the digit 7 in 1672?'],
@@ -813,7 +813,7 @@ const quizDictionary = {
             alternateAnswers: ['seventy'],
         },
         12: {
-            question: ['I am facing North, I make one-half turn. Which direction am I facing now?'],
+            question: ['I am facing North, I make one half turn. Which direction am I facing now?'],
             prefferedAnswer: ['South'],
             alternateAnswers: ['S'],
         },
@@ -823,12 +823,12 @@ const quizDictionary = {
             alternateAnswers: ['twelve'],
         },
         14: {
-            question: ['Decrease 157 by 25. What is the preferred answer?'],
+            question: ['Decrease 157 by 25. What is the prefferedAnswer?'],
             prefferedAnswer: [132],
-            alternateAnswers: ['one hundred and thirty-two'],
+            alternateAnswers: ['one hundread and thirty two', 'one hundread thirty two'],
         },
         15: {
-            question: ['I have 4 piles of cards. Each pile has 5 cards. How many cards do I have in total?'],
+            question: ['I have 4 piles of cards. Each pile has 5 cards. How may cards do I have in total?'],
             prefferedAnswer: [20],
             alternateAnswers: ['twenty'],
         },
@@ -838,89 +838,89 @@ const quizDictionary = {
             alternateAnswers: ['five'],
         },
         17: {
-            question: ['Add 120, and 40, and 25. What is the preferred answer?'],
+            question: ['Add 120, and 40, and 25. What is the prefferedAnswer?'],
             prefferedAnswer: [185],
-            alternateAnswers: ['one hundred and eighty-five'],
+            alternateAnswers: ['one hundread and eighty five', 'one hundread eighty five'],
         },
         18: {
             question: ['It is 5:30. What time will it be in two hours?'],
-            preferredAnswer: ['7:30'],
-            alternateAnswers: ['730', 'seven thirty', '7.30 pm', 'seven-thirty pm'],
+            prefferedAnswer: ['7:30'],
+            alternateAnswers: ['730', 730, 'seven thirty', '7.30pm', 'seven thirty pm'],
         },
         19: {
             question: ['How many months are in a year?'],
-            preferredAnswer: [12],
+            prefferedAnswer: [12],
             alternateAnswers: ['twelve'],
         },
         20: {
             question: ['Which is bigger, 2 quarters, or 1 third?'],
             prefferedAnswer: ['2 quarters'],
-            alternateAnswers: ['two quarters'],
+            alternateAnswers: ['two quaters'],
         },
         21: {
             question: ['What number is a quarter of 12?'],
-            preferredAnswer: [3],
+            prefferedAnswer: [3],
             alternateAnswers: ['three'],
         },
         22: {
-            question: ['Round 54 to the nearest 10, what is the preferred answer?'],
-            preferredAnswer: [50],
+            question: ['Round 54 to the nearest 10, what is the prefferedAnswer?'],
+            prefferedAnswer: [50],
             alternateAnswers: ['fifty'],
         },
         23: {
             question: ['How many grams are in a kilogram?'],
-            preferredAnswer: [1000],
+            prefferedAnswer: [1000],
             alternateAnswers: ['1kg', 'one thousand grams'],
         },
         24: {
             question: ['I have 35 marbles. I share them with 5 friends. How many marbles do we get each?'],
-            preferredAnswer: [7],
+            prefferedAnswer: [7],
             alternateAnswers: ['seven'],
         },
         25: {
             question: ['I go to the shop, I buy a pencil at 25 p and a pack of pens for 1 point 25. How much do I spend in total?'],
-            preferredAnswer: ['1 pound 50'],
-            alternateAnswers: ['one pound 50, '1 pound 50, 1.50, 'one point five', '£1.50'],
+            prefferedAnswer: ['1 pound 50'],
+            alternateAnswers: ['one pound 50 p', '1 pound 50 p', 1.50, 'one point five', '£1.50'],
         },
         26: {
             question: ['I have 4 right angles and all my sides are equal in length. Which 2 d shape am I?'],
-            preferredAnswer: ['square'],
+            prefferedAnswer: ['square'],
             alternateAnswers: ['fours sided shape'],
         },
         27: {
-            question: ['Double 35. What is the preferred answer?'],
-            preferredAnswer: [70],
+            question: ['Double 35. What is the prefferedAnswer?'],
+            prefferedAnswer: [70],
             alternateAnswers: ['seventy'],
         },
         28: {
-            question: ['I am building a fence it is 50 metres long. I have enough wood to build 34 meters. How many more meters of wood do I need?'],
-            preferredAnswer: ['16 meters'],
+            question: ['I am building a fence it is 50 metres long. I have enough wood to build 34 metres. How many more metres of wood do I need?'],
+            prefferedAnswer: ['16 metres'],
             alternateAnswers: ['sixteen meters', '16 m', '16m'],
         },
         29: {
-            question: ['I have 10 pounds, I spend 8 pounds 50. How much money do I have left?'],
-            preferredAnswer: ['1 pound 50'],
-            alternateAnswers: ['one pound 50, '1 pound 50, 1.50, '£1.50'],
+            question: ['I have 10 pound, I spend 8 pound 50. How much money do I have left?'],
+            prefferedAnswer: ['1 pound 50'],
+            alternateAnswers: ['one pound 50 p', '1 pound 50 p', 1.50, '£1.50'],
         },
         30: {
-            question: ['How many millimeters are in a centimeter?'],
-            preferredAnswer: [10],
+            question: ['How many millimeters in a centimeter?'],
+            prefferedAnswer: [10],
             alternateAnswers: ['ten'],
         },
         31: {
             question: ['What is 5 times 5, add 3?'],
-            preferredAnswer: [28],
-            alternateAnswers: ['twenty-eight'],
+            prefferedAnswer: [28],
+            alternateAnswers: ['twenty eight', 'twentyeight'],
         },
         32: {
-            question: ['I am a 4-sided 2 d shape, I am symmetrical, my opposite sides are equal. What shape am I?'],
-            preferredAnswer: ['rectangle'],
-            alternateAnswers: ['four-sided shape'],
+            question: ['I am a 4 sided 2 d shape, I am symmetrical, my opposite sides are equal. What shape am I?'],
+            prefferedAnswer: ['rectangle'],
+            alternateAnswers: ['four sided shape'],
         },
         33: {
-            question: ['Add 110 and 44. Then subtract 3. What is the preferred answer?'],
+            question: ['Add 110, and 44. Then subtract 3. What is the prefferedAnswer?'],
             prefferedAnswer: [151],
-            alternateAnswers: ['one hundred and fifty-one'],
+            alternateAnswers: ['one hundread and fifty one', 'one hundred fifty one'],
         },
         34: {
             question: ['How many lines of symmetry does a regular pentagon have?'],
@@ -928,342 +928,342 @@ const quizDictionary = {
             alternateAnswers: ['five'],
         },
         35: {
-            question: ['What number comes halfway between 30 and 50?'],
-            preferredAnswer: [40],
+            question: ['What number comes half way between 30 and 50?'],
+            prefferedAnswer: [40],
             alternateAnswers: ['forty'],
         },
         36: {
-            question: ['Round 166 to the nearest 10. What is the preferred answer?'],
-            preferredAnswer: [170],
-            alternateAnswers: ['one hundred and seventy', 'one hundred seventy'],
+            question: ['Round 166 to the nearest 10. What is the prefferedAnswer?'],
+            prefferedAnswer: [170],
+            alternateAnswers: ['one hundread and seventy', 'one hundread seventy'],
         },
         37: {
             question: ['What is the value of the digit 2 in 297?'],
-            preferredAnswer: [200],
-            alternateAnswers: ['two hundred'],
+            prefferedAnswer: [200],
+            alternateAnswers: ['two hundred', 'twohundred'],
         },
         38: {
             question: ['What is 33 divided by 3?'],
-            preferredAnswer: [11],
+            prefferedAnswer: [11],
             alternateAnswers: ['eleven'],
         },
         39: {
             question: ['What is the next number in the sequence 6, 9, 12, 15,?'],
-            preferredAnswer: [18],
+            prefferedAnswer: [18],
             alternateAnswers: ['eighteen'],
         },
         40: {
             question: ['Today is the 15th of the month. What date will it be in 2 weeks?'],
-            preferredAnswer: ['29th'],
-            alternateAnswers: ['twenty-ninth march', 'twenty-ninth of march'],
+            prefferedAnswer: ['29th'],
+            alternateAnswers: ['twenty ninth march', 'twentynineth of march', 'twenty nineth of march'],
         },
         41: {
             question: ['I am baking a cake. I put the cake in the oven at 2:30. It takes 1 and a half hours to cook. What time will the cake be ready?'],
-            preferredAnswer: ['4:00'],
-            alternateAnswers: ['4', '4 pm'],
+            prefferedAnswer: ['4:00'],
+            alternateAnswers: ['4', 4, '4pm', '4 pm'],
         },
         42: {
-            question: ['If one side of a square measures 6 centimeters. What is the perimeter of the square?'],
-            preferredAnswer: ['24 centimeters'],
+            question: ['If one side of a square measures 6 centimetres. What is the perimeter of the square?'],
+            prefferedAnswer: ['24 centimetres'],
             alternateAnswers: ['24 cm'],
         },
         43: {
-            question: ['Convert 1200 grams into kilograms. What is the preferred answer?'],
-            preferredAnswer: ['1 point 2 kilograms'],
+            question: ['Convert 1200 grams into kilograms. What is the prefferedAnswer?'],
+            prefferedAnswer: ['1 point 2 kilograms'],
             alternateAnswers: ['1 point 2 k. m.', '1.2k', 'one point two kilograms'],
         },
         44: {
-            question: ['Add 1000, 240, and 35. What is the preferred answer?'],
-            preferredAnswer: [1275],
-            alternateAnswers: ['one thousand two hundred and seventy-five'],
+            question: ['Add 1000, 240, and 35. What is the prefferedAnswer?'],
+            prefferedAnswer: [1275],
+            alternateAnswers: ['one thousand two hundread and seventy five'],
         },
         45: {
             question: ['What do I need to subtract from 200 to get 165?'],
-            preferredAnswer: [35],
-            alternateAnswers: ['thirty-five'],
+            prefferedAnswer: [35],
+            alternateAnswers: ['thirty five', 'thirtyfive'],
         },
         46: {
             question: ['What is 4 times 7?'],
-            preferredAnswer: [28],
-            alternateAnswers: ['twenty-eight'],
+            prefferedAnswer: [28],
+            alternateAnswers: ['twenty eight', 'twentyeight'],
         },
         47: {
-            question: ['If I add 40 and 22. Will the preferred answer be odd?'],
-            preferredAnswer: ['no'],
+            question: ['If I add 40, and 22. Will the prefferedAnswer be odd?'],
+            prefferedAnswer: ['no'],
             alternateAnswers: ['n', 'false'],
         },
         48: {
-            question: ['I want to buy two games. One cost 4 pounds 30, the other cost 5 pounds 70. I have 10 pounds. Do I have enough money?'],
-            preferredAnswer: ['yes'],
+            question: ['I want to buy two games. One costs 4 pound 30, the other costs 5 pound 70. I have 10 pound. Do I have enough money?'],
+            prefferedAnswer: ['yes'],
             alternateAnswers: ['y', 'true'],
         },
         49: {
             question: ['What is half of 84?'],
-            preferredAnswer: [42],
-            alternateAnswers: ['forty-two'],
+            prefferedAnswer: [42],
+            alternateAnswers: ['forty two', 'fortytwo'],
         },
         50: {
             question: ['What type of triangle has 3 sides, equal in length?'],
-            preferredAnswer: ['equilateral'],
-            alternateAnswers: ['three-sided shape'],
+            prefferedAnswer: ['equilateral'],
+            alternateAnswers: ['three sided shape'],
         },
     },
     5: {
         1: {
             question: ['Round 157, to the nearest 10.'],
-            preferredAnswer: [160],
-            alternateAnswers: ['one hundred and sixty'],
+            prefferedAnswer: [160],
+            alternateAnswers: ['one hundread and sixty'],
         },
         2: {
-            question: ['Add 134 and 65. What is the preferred answer?'],
-            preferredAnswer: [199],
-            alternateAnswers: ['one hundred and ninety-nine'],
+            question: ['Add 134, and 65. What is the prefferedAnswer?'],
+            prefferedAnswer: [199],
+            alternateAnswers: ['one hundread and ninety nine'],
         },
         3: {
             question: ['How many faces does a cuboid have?'],
-            preferredAnswer: [6],
+            prefferedAnswer: [6],
             alternateAnswers: ['six'],
         },
         4: {
             question: ['What is 2 quarters, of 20'],
-            preferredAnswer: [10],
+            prefferedAnswer: [10],
             alternateAnswers: ['ten'],
         },
         5: {
             question: ['Multiply 7, by 6.'],
-            preferredAnswer: [42],
-            alternateAnswers: ['forty-two'],
+            prefferedAnswer: [42],
+            alternateAnswers: ['forty two'],
         },
         6: {
             question: ['What is 34 more than 125?'],
-            preferredAnswer: [159],
-            alternateAnswers: ['one hundred and fifty-nine'],
+            prefferedAnswer: [159],
+            alternateAnswers: ['one hundread and fifty nine'],
         },
         7: {
             question: ['What is a quarter of 160?'],
-            preferredAnswer: [40],
+            prefferedAnswer: [40],
             alternateAnswers: ['forty'],
         },
         8: {
             question: ['Which number is larger? 1 point 7 or 1 point 0 7?'],
-            preferredAnswer: [1.7],
+            prefferedAnswer: [1.7],
             alternateAnswers: ['one point seven', '1 point 7', '1.7', '1.70'],
         },
         9: {
             question: ['How many right angles, in a square?'],
-            preferredAnswer: [4],
+            prefferedAnswer: [4],
             alternateAnswers: ['four'],
         },
         10: {
             question: ['What is 150, divided by 3?'],
-            preferredAnswer: [50],
+            prefferedAnswer: [50],
             alternateAnswers: ['fifty'],
         },
         11: {
             question: ['What is a half in decimal form?'],
-            preferredAnswer: [0.5],
+            prefferedAnswer: [0.5],
             alternateAnswers: ['zero point five', '0 point 5'],
         },
         12: {
             question: ['I have 1 kilogram of sugar. I use 130 grams to make a cake. How much sugar do I have left?'],
-            preferredAnswer: [870],
-            alternateAnswers: ['eight hundred and seventy'],
+            prefferedAnswer: [870],
+            alternateAnswers: ['eight hundread and seventy'],
         },
         13: {
-            question: ['What is 3000 milliliters in liters?'],
-            preferredAnswer: [3],
+            question: ['What is 3000 millilitres in litres?'],
+            prefferedAnswer: [3],
             alternateAnswers: ['three'],
         },
         14: {
             question: ['What is 7, times 7?'],
-            preferredAnswer: [49],
-            alternateAnswers: ['forty-nine'],
+            prefferedAnswer: [49],
+            alternateAnswers: ['focurty nine'],
         },
         15: {
             question: ['What is the value of the digit 8 in the number 2082?'],
-            preferredAnswer: [80],
+            prefferedAnswer: [80],
             alternateAnswers: ['eighty'],
         },
         16: {
             question: ['Which fraction is bigger, 2 thirds, or 2 quarters?'],
-            preferredAnswer: ['2 thirds'],
+            prefferedAnswer: ['2 thirds'],
             alternateAnswers: ['two third'],
         },
         17: {
             question: ['I have a pizza with 16 slices. I eat one quarter. How many slices are left?'],
-            preferredAnswer: [12],
+            prefferedAnswer: [12],
             alternateAnswers: ['twelve'],
         },
         18: {
             question: ['What is 3, times 5, add 22?'],
-            preferredAnswer: [37],
-            alternateAnswers: ['thirty-seven'],
+            prefferedAnswer: [37],
+            alternateAnswers: ['thirty seven'],
         },
         19: {
             question: ['Round 1 point 7, 8, 2, to one decimal place?'],
-            preferredAnswer: ['1 point 8'],
+            prefferedAnswer: ['1 point 8'],
             alternateAnswers: [ 1.8],
         },
         20: {
             question: ['A rectangular pool measures 4 metres by 6 metres. What is the area?'],
-            preferredAnswer: ['24 metres squared'],
+            prefferedAnswer: ['24 metres squared'],
             alternateAnswers: ['24m sqr'],
         },
         21: {
             question: ['I eat a third of a box of chocolates. There are 16 left. How many were there to begin with?'],
-            preferredAnswer: [24],
-            alternateAnswers: ['twenty-four'],
+            prefferedAnswer: [24],
+            alternateAnswers: ['twenty four'],
         },
         22: {
             question: ['I am facing north, I make one 90 degrees turn right. Which direction am I facing now?'],
-            preferredAnswer: ['East'],
+            prefferedAnswer: ['East'],
             alternateAnswers: ['E'],
         },
         23: {
             question: ['There are 30 children in a class. I would like to split them into 5 groups. How many children, will be in each group?'],
-            preferredAnswer: [6],
+            prefferedAnswer: [6],
             alternateAnswers: ['six'],
         },
         24: {
-            question: ['How many faces, does a square-based pyramid have?'],
-            preferredAnswer: [5],
+            question: ['How many faces, does a square based pyramid have?'],
+            prefferedAnswer: [5],
             alternateAnswers: ['five'],
         },
         25: {
-            question: ['What is the name of an angle, that is larger than 90 degrees but smaller than 180 degrees?'],
-            preferredAnswer: ['obtuse'],
-            alternateAnswers: ['obtuse],
+            question: ['What is the name of an angle, that is larger than 90 degrees, but smaller than 180 degrees?'],
+            prefferedAnswer: ['obtuse'],
+            alternateAnswers: ['obtus'],
         },
         26: {
             question: ['What is 9, times 6?'],
-            preferredAnswer: [54],
-            alternateAnswers: ['fifty-four'],
+            prefferedAnswer: [54],
+            alternateAnswers: ['fifty four'],
         },
         27: {
             question: ['What is 0.7, as a fraction?'],
-            preferredAnswer: ['7 tenths'],
-            alternateAnswers: ['7 tenths', 'seven tenths', 'seven tenths', '7/10'],
+            prefferedAnswer: ['7 tenths'],
+            alternateAnswers: ['7 tenth', 'seven tenth', 'seven tenths', '7/10'],
         },
         28: {
-            question: ['I go to the shop, I want to buy a new game, it costs 50 pounds, but there is a half-price sale on. How much will the game cost?'],
-            preferredAnswer: ['25 pounds'],
-            alternateAnswers: ['25, '25p', '25 pound', '£24'],
+            question: ['I go to the shop, I want to buy a new game, it costs 50 pounds, but there is a half price sale on. How much will the game cost?'],
+            prefferedAnswer: ['25 pounds'],
+            alternateAnswers: ['25 p', '25p', '25 pound', '£24'],
         },
         29: {
-            question: ['I am building a wall, it must be 6 meters long. I have 2 point 5 meters of red brick and 3 point 2 meters of white brick. How many more' +
-                'meters of green brick do I need to complete the wall?'],
-            preferredAnswer: [0.3],
+            question: ['I am building a wall, it must be 6 metres long. I have 2 point 5 metres of red brick and 3 point 2 metres of white brick. How many more' +
+                ' metres of green brick do I need to complete the wall?'],
+            prefferedAnswer: [0.3],
             alternateAnswers: ['0 point 3'],
         },
         30: {
-            question: ['How many centimeters are in 35 millimeters?'],
-            preferredAnswer: [3.5],
+            question: ['How many centimetres are in 35 millimetres?'],
+            prefferedAnswer: [3.5],
             alternateAnswers: ['3 point 5'],
         },
         31: {
             question: ['What is 9, times 6?'],
-            preferredAnswer: [54],
-            alternateAnswers: ['fifty-four'],
+            prefferedAnswer: [54],
+            alternateAnswers: ['fifty four'],
         },
         32: {
             question: ['What is the value of x, if x plus 3 equals 5?'],
-            preferredAnswer: [2],
+            prefferedAnswer: [2],
             alternateAnswers: ['two'],
         },
         33: {
             question: ['2 days is the same as how many hours?'],
-            preferredAnswer: [48],
-            alternateAnswers: ['forty-eight'],
+            prefferedAnswer: [48],
+            alternateAnswers: ['fourty eight'],
         },
         34: {
             question: ['Today is the 12th of March, what date will it be in 3 weeks time?'],
-            preferredAnswer: ['third of April'],
-            alternateAnswers: ['3rd of April', 'April 3rd'],
+            prefferedAnswer: ['third of April'],
+            alternateAnswers: ['3rd of april', 'aprill 3rd'],
         },
         35: {
             question: ['If I divide 17 by 4. What will the remainder be?'],
-            preferredAnswer: [1],
+            prefferedAnswer: [1],
             alternateAnswers: ['one'],
         },
         36: {
             question: ['How many tenths in 1 point 2?'],
-            preferredAnswer: [12],
+            prefferedAnswer: [12],
             alternateAnswers: ['twelve'],
         },
         37: {
             question: ['Which number is bigger? 0 point 7, or 0 point 0, 7?'],
-            preferredAnswer: ['0 point 7'],
+            prefferedAnswer: ['0 point 7'],
             alternateAnswers: [0.7, 'zero point seven'],
         },
         38: {
             question: ['Round 346 to the nearest 100?'],
-            preferredAnswer: [300],
-            alternateAnswers: ['three hundred'],
+            prefferedAnswer: [300],
+            alternateAnswers: ['three hundread'],
         },
         39: {
-            question: ['I start watching my favourite TV show at a quarter past 8, the show lasts for 90 minutes. What time does the show end?'],
-            preferredAnswer: ['quarter to ten'],
+            question: ['I start watching my favourite tv show at a quarter past 8, the show lasts for 90 minutes. What time does the show end?'],
+            prefferedAnswer: ['quarter to ten'],
             alternateAnswers: ['10:15', 'ten fifteen', 1015, '10.15'],
         },
         40: {
             question: ['How many minutes in 3 and a half hours?'],
-            preferredAnswer: [210],
-            alternateAnswers: ['two hundred and ten'],
+            prefferedAnswer: [210],
+            alternateAnswers: ['two hundread and ten'],
         },
         41: {
             question: ['I travel at 50 miles per hour, how many minutes will it take me to travel 25 miles?'],
-            preferredAnswer: [30],
+            prefferedAnswer: [30],
             alternateAnswers: ['thirty'],
         },
         42: {
             question: ['What is 45, divided by 5, add 10?'],
-            preferredAnswer: [19],
+            prefferedAnswer: [19],
             alternateAnswers: ['nineteen'],
         },
         43: {
             question: ['What is the value of x, if x times 4, equals 20?'],
-            preferredAnswer: [5],
+            prefferedAnswer: [5],
             alternateAnswers: ['five'],
         },
         44: {
             question: ['How many lines of symmetry does a regular hexagon have?'],
-            preferredAnswer: [6],
+            prefferedAnswer: [6],
             alternateAnswers: ['six'],
         },
         45: {
             question: ['What does each angle measure in an equilateral triangle?'],
-            preferredAnswer: ['60 degrees'],
-            alternateAnswers: ['sixty degrees', 'sixty degrees'],
+            prefferedAnswer: ['60 degrees'],
+            alternateAnswers: ['sixty degree', 'sixty degrees'],
         },
         46: {
             question: ['In an isosceles triangle, the two equal angles measure 20 degrees each. What does the third angle measure?'],
-            preferredAnswer: [140],
-            alternateAnswers: ['one hundred and forty'],
+            prefferedAnswer: [140],
+            alternateAnswers: ['one hundread and forty'],
         },
         47: {
             question: ['Is there a remainder when you divide 178 by 5?'],
-            preferredAnswer: ['yes'],
+            prefferedAnswer: ['yes'],
             alternateAnswers: ['y'],
         },
         48: {
             question: ['What is the next number in the sequence 27, 24, 21, 18,?'],
-            preferredAnswer: [15],
-            alternateAnswers: ['fifteen'],
+            prefferedAnswer: [15],
+            alternateAnswers: ['fifthteen'],
         },
         49: {
             question: ['Which is bigger? 5 tenths, or one quarter?'],
-            preferredAnswer: ['5 tenths'],
-            alternateAnswers: ['five tenths', '5 tenths', 'five tenths', '5/10'],
+            prefferedAnswer: ['5 tenths'],
+            alternateAnswers: ['five tenths', '5 tenth', 'five tenth', '5/10'],
         },
         50: {
             question: ['I want to buy a burger at 3 pounds 80 and a milkshake which costs 1 pound 30. I have 5 pounds, will this be enough money?'],
-            preferredAnswer: ['no'],
+            prefferedAnswer: ['no'],
             alternateAnswers: ['n'],
         },
         51: {
             question: ['My grandmother is 83, my mum is 52 years younger. What age will my mum be on her next birthday?'],
-            preferredAnswer: [32],
-            alternateAnswers: ['thirty-two'],
+            prefferedAnswer: [32],
+            alternateAnswers: ['thirty two'],
         },
     }
 };

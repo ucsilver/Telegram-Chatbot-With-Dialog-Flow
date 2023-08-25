@@ -301,7 +301,7 @@ const quizDictionary = {
         9: {
             question: ['What is 17, take away 2?'],
             prefferedAnswer: [15],
-            alternateAnswers: ['fifteen],
+            alternateAnswers: ['fifteen'],
         },
         10: {
             question: ['What shape has 6 sides?'],
@@ -553,7 +553,7 @@ const quizDictionary = {
         10: {
             question: ['22, take away 7, equals?'],
             prefferedAnswer: [15],
-            alternateAnswers: ['fifteen],
+            alternateAnswers: ['fifteen'],
         },
         11: {
             question: ['What is the next number in the sequence 20, 18, 16, 14,?'],
@@ -1198,7 +1198,7 @@ const quizDictionary = {
         38: {
             question: ['Round 346 to the nearest 100?'],
             preferredAnswer: [300],
-            alternateAnswers: ['three hundred],
+            alternateAnswers: ['three hundred'],
         },
         39: {
             question: ['I start watching my favourite TV show at a quarter past 8, the show lasts for 90 minutes. What time does the show end?'],
@@ -1238,7 +1238,7 @@ const quizDictionary = {
         46: {
             question: ['In an isosceles triangle, the two equal angles measure 20 degrees each. What does the third angle measure?'],
             preferredAnswer: [140],
-            alternateAnswers: ['one hundred and forty],
+            alternateAnswers: ['one hundred and forty'],
         },
         47: {
             question: ['Is there a remainder when you divide 178 by 5?'],
@@ -1248,7 +1248,7 @@ const quizDictionary = {
         48: {
             question: ['What is the next number in the sequence 27, 24, 21, 18,?'],
             preferredAnswer: [15],
-            alternateAnswers: ['fifteen],
+            alternateAnswers: ['fifteen'],
         },
         49: {
             question: ['Which is bigger? 5 tenths, or one quarter?'],

@@ -209,7 +209,7 @@ const quizDictionary = {
         42: {
             question: ['What is the next colour in the pattern red, blue, green, red, blue, green, ?'],
             prefferedAnswer: ['red'],
-            alternateAnswers: ['reddish],
+            alternateAnswers: ['reddish'],
         },
         43: {
             question: ['What is half of 2?'],
